@@ -10,4 +10,4 @@ Ferramentas, dependências e libs instaladas: React JS, Axios, React-Router-Dom,
 
 Deploy: http://flagrant-fold.surge.sh/
 
-Rodando localmente: Faça o clone do repositorio, navegue ate a pasta destino, utilize o comando npm install, rode o projeto com o comando npm run start
+Rodando localmente: Faça o clone do repositorio, navegue ate a pasta destino, utilize o comando npm install, rode o projeto com o comando npm run start.
